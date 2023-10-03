@@ -1,6 +1,6 @@
  ## Olá! Sou Larissa Novais
 
-- 🔭 Desenvolvedora Front-end
+- 🔭 Estagiária de Cloud
 - 🌱 Faço faculdade de Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no e-mail llalinha.sn@hotmail.com
 - 😄 Pronomes: Ela/Dela
